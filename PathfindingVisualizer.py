@@ -157,7 +157,7 @@ def dijkstras_algorithm(draw, grid, start, end):
 
     return False
 
-def A_Star_algorithm(draw, grid, start, end):
+def a_star_algorithm(draw, grid, start, end):
     count = 0  # If 2 nodes mid-path give the same distance, node with lower count can be traversed.
 
     # Queue tracks (current total distance, records when current node was added, start/current node)
