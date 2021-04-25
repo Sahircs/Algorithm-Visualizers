@@ -1,7 +1,5 @@
 # Algorithm-Visualizers
 
-Built 2 visualizers - one for Sorting Algorithms and the other for Pathfinding Algorithms
-
 
 ## 1. Sorting-Algorithm-Visualizer
 Sorting Algorithm Visualizer created using Python and Pygame.
