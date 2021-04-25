@@ -4,7 +4,7 @@ Built 2 visualizers - one for Sorting Algorithms and the other for Pathfinding A
 
 
 ## 1. Sorting-Algorithm-Visualizer
-Sorting Algorithm Visualiser created using Python and Pygame.
+Sorting Algorithm Visualizer created using Python and Pygame.
 
 Algorithms implemented include Bubble Sort, Merge Sort, Quick Sort and Radix Sort.
 
