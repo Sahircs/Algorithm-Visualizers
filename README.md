@@ -34,8 +34,6 @@ Allows the user to select start and end points within the GUI, add barriers with
 #### **Pathfinding Visualizer Demo**
 
 
-![Pathfinding Visualizer Demo](Pathfinding.gif)
-
-![Demo](https://raw.githubusercontent.com/Sahircs/Pathfinding-Algorithm-Visualiser/master/Pathfinding.gif)
+![Pathfinding Visualizer Demo](https://raw.githubusercontent.com/Sahircs/Pathfinding-Algorithm-Visualiser/master/Pathfinding.gif)
 
 
