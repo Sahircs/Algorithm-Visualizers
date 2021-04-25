@@ -12,7 +12,7 @@ Algorithms implemented include Bubble Sort, Merge Sort, Quick Sort and Radix Sor
 Allows the user to visualize a randomly generated array and select a specified sorting algorithm to visualize the progression of the array being sorted and finally displays the sorted array.
 
 
-**Sorting Visualizer Demo**
+#### **Sorting Visualizer Demo**
 
 **Click the link to watch the visualisation!!!**
 
@@ -31,7 +31,7 @@ Algorithms implemented include **A** and **Dijkstra's.**
 Allows the user to select start and end points within the GUI, add barriers within the grid and select a specified search algorithm to visualize its progression from the start node to the end node and finally displays the shortest path.
 
 
-**Pathfinding Visualizer Demo**
+#### **Pathfinding Visualizer Demo**
 
 
 ![Pathfinding Visualizer Demo](Pathfinding.gif)
